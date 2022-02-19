@@ -4,7 +4,7 @@ from gameviews.mainmenu import MainMenu
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
-SCREEN_TITLE = "Sprite Face Left or Right Example"
+SCREEN_TITLE = "Clicker Heros"
 
 def main():
     window = arcade.Window(SCREEN_WIDTH, SCREEN_HEIGHT,SCREEN_TITLE)
